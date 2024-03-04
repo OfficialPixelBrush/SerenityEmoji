@@ -6,7 +6,7 @@
 - [ ] ANATOMICAL HEART
 
 # Finished Emoji
-## [PR 23440](https://github.com/SerenityOS/serenity/pull/23440)
+## [PR #23441](https://github.com/SerenityOS/serenity/pull/23441)
 - 👞 - U+1F45E MANS SHOE
 - 👟 - U+1F45F ATHLETICS SHOE
 - 👠 - U+1F460 HIGH-HEELED SHOE
