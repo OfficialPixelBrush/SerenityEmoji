@@ -6,11 +6,12 @@
 -
 
 ## Committed
-- [x] 🥿 - U+1F97F FLAT SHOE
-- [x] 🫀 - U+1FAC0 ANATOMICAL HEART
-- [x] 🪔 - U+1FA94 DIYA LAMP
-- [x] 🧫 - U+1F9EB PETRI DISH
-- [x] 🚷 - U+1F6B7 NO PEDESTRIANS
+### [PR #23464](https://github.com/SerenityOS/serenity/pull/23464)
+🥿 - U+1F97F FLAT SHOE
+🫀 - U+1FAC0 ANATOMICAL HEART
+🪔 - U+1FA94 DIYA LAMP
+🧫 - U+1F9EB PETRI DISH
+🚷 - U+1F6B7 NO PEDESTRIANS
 
 ## Accepted
 ### [PR #23441](https://github.com/SerenityOS/serenity/pull/23441)
