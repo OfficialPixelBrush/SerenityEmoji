@@ -1,6 +1,6 @@
 @echo off
 
-for %%f in (*.png) do (
-  echo %%f
-  optipng %%f -strip all 
+for /R %%f in (*.png) do (
+    echo %%f
+    optipng %%f -strip all
 )
