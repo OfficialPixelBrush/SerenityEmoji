@@ -3,13 +3,14 @@
 
 # Emoji
 ## Not yet commited
-- 🧥 - U+1F9E5 COAT
-- 🥼 - U+1F97C LAB COAT
 - 🤼‍♂️ - U+1F93C U+200D U+2642 U+FE0F MEN WRESTLING
 - 🧟‍♂️ - U+1F9DF U+200D U+2642 U+FE0F MAN ZOMBIE
 - 👩‍🏭 - U+1F469 U+200D U+1F3ED WOMAN FACTORY WORKER
+- 🐂 - U+1F402 OX (Would be cool)
 
 ## Committed
+- 🧥 - U+1F9E5 COAT
+- 🥼 - U+1F97C LAB COAT
 
 ## Accepted
 ### [PR #23467](https://github.com/SerenityOS/serenity/pull/23467)
