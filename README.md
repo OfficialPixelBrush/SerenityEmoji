@@ -13,6 +13,7 @@
 
 ## Accepted
 ### [PR #23467](https://github.com/SerenityOS/serenity/pull/23467)
+### [PR #23563](https://github.com/SerenityOS/serenity/pull/23563)
 - Remake Default Snake Sprites
 
 ### [PR #23464](https://github.com/SerenityOS/serenity/pull/23464)
