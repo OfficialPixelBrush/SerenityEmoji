@@ -1,5 +1,5 @@
 # SerenityEmoji
- Dedicated Repo for the Emojis I made for SerenityOS
+ Dedicated Repo for the Emojis, Icons or other Sprites I made for SerenityOS
 
 # Emoji
 ## Not yet commited
