@@ -2,20 +2,21 @@
  Dedicated Repo for the Emojis, Icons or other Sprites I made for SerenityOS
 
 # Emoji
-## Not yet commited
+## TODO
 - 🤼‍♂️ - U+1F93C U+200D U+2642 U+FE0F MEN WRESTLING
 - 🧟‍♂️ - U+1F9DF U+200D U+2642 U+FE0F MAN ZOMBIE
 - 👩‍🏭 - U+1F469 U+200D U+1F3ED WOMAN FACTORY WORKER
-- 🐂 - U+1F402 OX
-- 🐃 - U+1F403 WATER BUFFALO
-- 🐄 - U+1F404 COW
-- 🐉 - U+1F409 DRAGON
-- 🐜 - U+1F41C ANT
 
+## Not yet commited
+- 
 
 ## Committed
-- 🧥 - U+1F9E5 COAT
-- 🥼 - U+1F97C LAB COAT
+### [PR #23663](https://github.com/SerenityOS/serenity/pull/23663)
+- 🐄 - U+1F404 COW
+- 🐃 - U+1F403 WATER BUFFALO
+- 🐂 - U+1F402 OX
+- 🐉 - U+1F409 DRAGON
+- 🐜 - U+1F41C ANT
 
 ## Accepted
 ### [PR #23467](https://github.com/SerenityOS/serenity/pull/23467)
@@ -35,3 +36,7 @@
 - 👠 - U+1F460 HIGH-HEELED SHOE
 - 🕴 - U+1F574 MAN IN BUSINESS SUIT LEVITATING
 - 🐐 - U+1F410 GOAT
+
+## Already taken
+- 🧥 - U+1F9E5 COAT
+- 🥼 - U+1F97C LAB COAT
