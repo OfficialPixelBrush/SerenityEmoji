@@ -7,23 +7,35 @@
 - 🧟‍♂️ - U+1F9DF U+200D U+2642 U+FE0F MAN ZOMBIE
 - 👩‍🏭 - U+1F469 U+200D U+1F3ED WOMAN FACTORY WORKER
 
+
+
 ## Not yet commited
 - 
 
 ## Committed
+### [PR #23672](https://github.com/SerenityOS/serenity/pull/23672)
+#### Reworks
+- 🕷️ - U+1F577 SPIDER
+- 🕸️ - U+1F578 SPIDER WEB
+#### Adds
+- 🛳 - U+1F6F3 PASSENGER SHIP
+
+## Accepted
 ### [PR #23663](https://github.com/SerenityOS/serenity/pull/23663)
+#### Adds
 - 🐄 - U+1F404 COW
 - 🐃 - U+1F403 WATER BUFFALO
 - 🐂 - U+1F402 OX
 - 🐉 - U+1F409 DRAGON
 - 🐜 - U+1F41C ANT
 
-## Accepted
 ### [PR #23467](https://github.com/SerenityOS/serenity/pull/23467)
 ### [PR #23563](https://github.com/SerenityOS/serenity/pull/23563)
+#### Changes
 - Remake Default Snake Sprites
 
 ### [PR #23464](https://github.com/SerenityOS/serenity/pull/23464)
+#### Adds
 - 🥿 - U+1F97F FLAT SHOE
 - 🫀 - U+1FAC0 ANATOMICAL HEART
 - 🪔 - U+1FA94 DIYA LAMP
@@ -31,6 +43,7 @@
 - 🚷 - U+1F6B7 NO PEDESTRIANS
 
 ### [PR #23441](https://github.com/SerenityOS/serenity/pull/23441)
+#### Adds
 - 👞 - U+1F45E MANS SHOE
 - 👟 - U+1F45F ATHLETICS SHOE
 - 👠 - U+1F460 HIGH-HEELED SHOE
