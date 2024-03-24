@@ -33,7 +33,7 @@ def scale_and_arrange_images(folder_path, scale_factor=30, font_size=20, shadowO
           width, height = img.size
           resized_width = int(width * scale_factor)
           resized_height = int(height * scale_factor)
-          resized_img = img.resize((resized_width, resized_height))
+          resized_img = img.resize((resized_width, resized_height), Image.NEAREST)
           images.append(resized_img)
           filename = os.path.splitext(filename)[0]
           filenames.append(filename)
