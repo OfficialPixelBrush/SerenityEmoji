@@ -8,11 +8,17 @@
 - 👩‍🏭 - U+1F469 U+200D U+1F3ED WOMAN FACTORY WORKER
 - 👶 - U+1F476 BABY
 
+# Icons
+- Base/res/icons/16x16/office.png (redraw at an angle, to align better with other icons in start menu!)
+- MineSweeper Numbers
+
 
 ## Not yet commited
 - 
 
 ## Committed
+
+## Accepted
 ### [PR #23672](https://github.com/SerenityOS/serenity/pull/23672)
 #### Reworks
 - 🕷️ - U+1F577 SPIDER
@@ -20,7 +26,6 @@
 #### Adds
 - 🛳 - U+1F6F3 PASSENGER SHIP
 
-## Accepted
 ### [PR #23663](https://github.com/SerenityOS/serenity/pull/23663)
 #### Adds
 - 🐄 - U+1F404 COW
